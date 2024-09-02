@@ -1,0 +1,5 @@
+ID,Name,Age,Email
+1,John Doe,30,john.doe@example.com
+2,Jane Smith,25,jane.smith@example.com
+3,Suspicious user,40,attacker@example.com; DROP TABLE users --
+4,Normal User,22,normal.user@example.com
